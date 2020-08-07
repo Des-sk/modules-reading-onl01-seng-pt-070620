@@ -10,6 +10,9 @@ class Dancer
     @name = name
   end
   
-  
+  class Dancer
+  extend MetaDancing
+end
+
   
 end
